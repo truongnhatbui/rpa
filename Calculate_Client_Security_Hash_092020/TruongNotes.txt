@@ -1,0 +1,10 @@
+1) There is no existing file Framework/GetAppCredentials.xaml of Robotic Enterprise Framework 
+2) Message: Cannot communicate with Internet Explorer browser. Solved by adding the webpage to trust list in Internet Setting.
+
+https://acme-test.uipath.com/check-assignment
+Assignments result - This table provides insights regarding the assignments done in the training
+Assignment name Total Items Completed Items Correct Items Score Validation Code Status
+Assignment 1 - Calculate Client Security Hash 19 19 19 100 HSAJ96 Passed 
+
+
+ACME_Credential
